@@ -16,6 +16,18 @@ $ npm install -g gulp
 
 After that, just run gulp in the root folder and you're good to go. 
 
+```bash
+$ gulp
+```
+
+## What's in the box
+
+- Browserify + Reactify + Watchify for bestify builds
+- BrowserSync for responsive testing and server
+- Bourbon/Neat/Bitters for styles
+
+The kit is lightweight and all the tools can be swapped out if you're more accustomed to use something else (LESS for SASS, Webpack for Browserify, etc)
+
 ## Licence
 
 The MIT License (MIT)

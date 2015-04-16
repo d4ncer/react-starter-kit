@@ -1,7 +1,5 @@
 # React Starter Kit
 
----
-
 This is meant to serve as a very basic template to prototype React + Flux applications, based very heavily on 
 [this excellent gulp starter kit](https://github.com/greypants/gulp-starter). It comes with a dev build environment,
 watchers, and an in-built server, via BrowserSync. 
